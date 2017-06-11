@@ -9,4 +9,4 @@ The **gapfraction** package for **R** is the work of [Adam Erickson](http://blog
 
 > "Thank you for visiting! I hope you find the software useful." -Adam
 
-![](cartoon.jpg)
+![](adam.jpg)
